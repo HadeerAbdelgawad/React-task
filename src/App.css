@@ -1,0 +1,25 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.title{
+  text-align: center;
+  text-decoration: underline 2px;
+  letter-spacing: 2px;
+  color: rgb(58, 58, 91);
+}
+.div1{
+  padding: 24px;
+}
+.table{
+  width: 100%;
+  border-collapse: collapse;
+  text-align: center;
+}
+.table tr td{
+  height: 57px;
+}
+.table th{
+  height: 30px;
+}
